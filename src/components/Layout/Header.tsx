@@ -70,12 +70,13 @@ export default function Header() {
         <div id="Header" data-testid="Header">
             <div className="Col">
                 <span id="AppLogo">{APP_NAME}</span>
-                <span className="versionInfo">{APP_TITLE}</span>
+                {/* <span className="versionInfo">{APP_TITLE}</span> */}
             </div>
 
             <div className="Col"></div>
 
             <div className="Col">
+                <span>Switch Theme </span>
                 <ThemeSwitcherWithAnimation />
                 <button
                     className="add-button"
@@ -103,7 +104,7 @@ export default function Header() {
                     data-testid="sourceCodeButton"
                     onClick={() => {
                         window.location.href =
-                            "https://github.com/onur-celik/invester";
+                            "https://github.com/Aryanmehta21/investers-friend";
                     }}
                 >
                     <GitHub size={14} />

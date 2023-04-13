@@ -1,4 +1,4 @@
-export const APP_NAME = "in.vester.app";
+export const APP_NAME = "Invester's Friend";
 export const APP_VERSION = "1.0.0";
 export const APP_TITLE = `version ${APP_VERSION} March 3rd, 2023`;
 export const AVAILABLE_WIDGETS = [

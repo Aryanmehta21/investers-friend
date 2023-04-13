@@ -1,12 +1,10 @@
-# invester
+# Invester's Friend
 Create an investment observing screen the way you desire.
 
 ## Demo
-Working example can be found at 👉🏻 https://in.vester.app  
+Working example can be found at 👉🏻 https://investers-friend.vercel.app/  
 
 ![invester demo](https://firebasestorage.googleapis.com/v0/b/investerapp.appspot.com/o/invester-demo.png?alt=media&token=0338a366-b134-4af9-b8ac-f9a01cd12427)
-## Description
-**invester** is an open source project that provides a simple way to track your investments in real-time. With this tool, you can easily monitor your portfolio and keep track of your investments' performance.
 
 ### Features
 - **Real-time tracking**: Get up-to-date information on your favourite instruments.
@@ -40,15 +38,3 @@ Clone the repository to your local machine.
 
 ## Build
 Run `npm run build`
-
-## Contributing
-1. Fork the project from Github (https://github.com/onur-celik/invester)
-2. Add your feature / fix
-3. Send a pull request
-## Credits
-- Mustafa Onur Çelik (Author)  
-onurcelik.dev@gmail.com  
-https://github.com/onur-celik  
-
-## License
-Invester is released under the MIT License. 

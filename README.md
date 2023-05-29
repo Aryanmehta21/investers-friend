@@ -38,3 +38,6 @@ Clone the repository to your local machine.
 
 ## Build
 Run `npm run build`
+
+## Run
+Run `npm run dev`
